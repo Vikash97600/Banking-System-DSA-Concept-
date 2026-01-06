@@ -20,7 +20,7 @@ Architecture: Follows a Client-Server model where the Java GUI (Swing) interacts
 A robust, desktop-based Banking Management System developed in Java. This application simulates a real-world banking environment, allowing for secure customer transactions and administrative management.
 
 ## 📺 Demo
-**Project video :**  
+**Project video :**  https://github.com/user-attachments/assets/5437ea5d-3c53-4765-b08e-eafc667bee87
 *Features shown: Account creation, deposit/withdrawal, and manager-level approvals.*
 
 ## 🌟 Key Features
