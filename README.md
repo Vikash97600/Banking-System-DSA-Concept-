@@ -1,4 +1,14 @@
-**Project Overview & Technical Details**
+**Union Bank of India - Banking Management System**
+
+
+<p align="center">
+  <img src="BMS logo.png" alt="Banking Management Logo" width="200">
+</p>
+
+
+
+**Project Overview & Technicial Detail**
+
 The system, titled "Union Bank of India - Banking System," is a desktop application designed to automate core retail banking operations.
 
 Architecture: Follows a Client-Server model where the Java GUI (Swing) interacts with a MySQL backend via the JDBC driver (mysql-connector-j-9.5.0.jar).
