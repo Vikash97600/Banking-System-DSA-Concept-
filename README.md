@@ -1,13 +1,12 @@
-**Union Bank of India - Banking Management System**
+<h4 style="text-align: center;">Union Bank of India - Banking Management System</h4>
 
 
 <p align="center">
-  <img src="BMS logo.png" alt="Banking Management Logo" width="200">
+  <img src="BMS logo.png" alt="Banking Management System Logo" width="200">
 </p>
 
 
-
-**Project Overview & Technicial Detail**
+**Project Overview & Technicial Details**
 
 The system, titled "Union Bank of India - Banking System," is a desktop application designed to automate core retail banking operations.
 
