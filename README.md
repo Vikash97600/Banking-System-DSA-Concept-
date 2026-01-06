@@ -21,6 +21,7 @@ A robust, desktop-based Banking Management System developed in Java. This applic
 
 ## 📺 Demo
 **Project video :**  https://github.com/user-attachments/assets/5437ea5d-3c53-4765-b08e-eafc667bee87
+
 *Features shown: Account creation, deposit/withdrawal, and manager-level approvals.*
 
 ## 🌟 Key Features
@@ -56,7 +57,7 @@ A robust, desktop-based Banking Management System developed in Java. This applic
 ### Installation
 1. **Clone the repository:**
    ```bash
-   git clone
+   git clone https://github.com/Vikash97600/Banking-System-DSA-Concept-
 
 2. **Setup Database:**
 - Create a database named banking_db.
